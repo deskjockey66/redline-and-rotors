@@ -15,7 +15,9 @@ if OUT.exists(): shutil.rmtree(OUT)
 OUT.mkdir()
 shutil.copy(ROOT/'style.css',OUT/'style.css')
 shutil.copy(ROOT/'favicon.svg',OUT/'favicon.svg')
-shutil.copytree(ROOT/'media',OUT/'media',dirs_exist_ok=True)
+(OUT/'media').mkdir(exist_ok=True)
+if (ROOT/'media').is_dir():
+    shutil.copytree(ROOT/'media',OUT/'media',dirs_exist_ok=True)
 (OUT/'.nojekyll').touch()
 
 def parse_post(path):
