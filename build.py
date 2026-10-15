@@ -16,6 +16,7 @@ if OUT.exists(): shutil.rmtree(OUT)
 OUT.mkdir()
 shutil.copy(ROOT/'style.css',OUT/'style.css')
 shutil.copy(ROOT/'favicon.svg',OUT/'favicon.svg')
+shutil.copy(ROOT/'carousel.js',OUT/'carousel.js')
 (OUT/'media').mkdir(exist_ok=True)
 if (ROOT/'media').is_dir():
     shutil.copytree(ROOT/'media',OUT/'media',dirs_exist_ok=True)
@@ -85,17 +86,36 @@ for p in posts:
     (dest/'index.html').write_text(page(p['title'],body,p.get('summary','')),encoding='utf-8')
 
 home=yaml.safe_load((ROOT/'content/homepage.yml').read_text())
-hi=asset(home.get('hero_image'))
-visual=f'<img src="{safe(hi)}" alt="Featured Redline & Rotors photograph">' if hi else ''
-feature_link=url(home.get('hero_link')) if home.get('hero_link') else (f'/stories/{posts[0]["slug"]}/' if posts else '/about/')
+# Keep the welcome story in every edition, alongside every published review.
+welcome=next((p for p in posts if p['slug']=='start-here'),None)
+featured=next((p for p in posts if url('/stories/'+p['slug']+'/')==url(home.get('hero_link'))),None)
+ordered=[]
+for item in [featured,welcome]+posts:
+    if item and not any(p['slug']==item['slug'] for p in ordered):
+        ordered.append(item)
+slides=[]
+dots=[]
+for i,p in enumerate(ordered):
+    is_featured=p is featured
+    image_path=home.get('hero_image') if is_featured else p.get('cover')
+    title=home.get('hero_title') if is_featured else p['title']
+    description=home.get('hero_description') if is_featured else p.get('summary','')
+    kicker=home.get('hero_kicker') if is_featured else ('START HERE / THE JOURNAL' if p is welcome else p.get('category','Journal')+' / '+str(p['reading_minutes'])+' MIN READ')
+    visual_class='is-watch' if p.get('category')=='Timepieces' else ('is-portrait' if p['slug']=='audi-rs3' else '')
+    loading='fetchpriority="high"' if i==0 else 'loading="lazy"'
+    visual=f'<img src="{safe(asset(image_path))}" alt="{safe(p["title"])}" {loading}>' if image_path else ''
+    hidden='' if i==0 else ' hidden'
+    slides.append(f'''<article class="hero-slide" data-slide data-title="{safe(title)}" role="group" aria-roledescription="slide" aria-label="{i+1} of {len(ordered)}"{hidden}><div class="hero-visual {visual_class}">{visual}</div><div class="hero-info"><div class="eyebrow">{safe(kicker)}</div><h2>{safe(title)}</h2><p>{safe(description)}</p><a class="button" href="/stories/{safe(p['slug'])}/">Read the story ↗<span class="sr-only">: {safe(title)}</span></a></div></article>''')
+    dots.append(f'<button type="button" data-slide-to="{i}" aria-label="Show story {i+1}: {safe(title)}" aria-pressed="{str(i==0).lower()}"><span></span></button>')
+carousel=f'''<section class="hero hero-carousel" data-carousel role="region" aria-roledescription="carousel" aria-label="Featured stories"><div class="carousel-slides">{''.join(slides)}</div><div class="carousel-controls" data-controls hidden><div class="carousel-dots" role="group" aria-label="Choose a featured story">{''.join(dots)}</div><div class="carousel-actions"><span class="carousel-count" data-count>1 / {len(ordered)}</span><button type="button" data-prev aria-label="Previous story">←</button><button type="button" data-toggle>Pause</button><button type="button" data-next aria-label="Next story">→</button></div></div><p class="sr-only" data-status aria-live="polite" aria-atomic="true"></p></section>'''
 cards=''
 for p in posts:
     img=asset(p.get('cover'))
     visual_card=f'<img src="{safe(img)}" alt="{safe(p["title"])}" loading="lazy">' if img else ''
     cards+=f'''<a class="card {"watch-card" if p.get("category")=="Timepieces" else ""}" href="/stories/{safe(p['slug'])}/"><div class="thumb {'placeholder' if not img else ''}">{visual_card}</div><div class="eyebrow">{safe(p.get('category','Journal'))} / {safe(p['date'])} / {p['reading_minutes']} MIN READ</div><h3>{safe(p['title'])}</h3><p>{safe(p.get('summary',''))}</p></a>'''
 if not cards: cards='<p>First stories are on their way.</p>'
-body=f'''<main id="main"><div class="wrap"><section class="mast"><div><div class="eyebrow">THE INDEPENDENT JOURNAL / VOL. 01</div><h1>{safe(home.get('headline'))}</h1></div><p>{safe(home.get('intro'))}</p></section><section class="hero"><div class="hero-visual {'placeholder' if not hi else ''}">{visual}</div><div class="hero-info"><div class="eyebrow">{safe(home.get('hero_kicker'))}</div><h2>{safe(home.get('hero_title'))}</h2><p>{safe(home.get('hero_description'))}</p><a class="button" href="{safe(feature_link)}">Read the story ↗</a></div></section><section id="stories"><div class="section-head"><h2>The reading room</h2><small>MACHINES / TIMEPIECES / CULTURE</small></div><div class="cards">{cards}</div></section></div><section class="feature-band"><div class="wrap"><div><div class="eyebrow">REDLINE & ROTORS</div><h2>Driven by curiosity.</h2></div><p>A journal for people who care about how things feel, how they're made, and where they take us.</p></div></section></main>'''
-(OUT/'index.html').write_text(page('Home',body,home.get('intro','')),encoding='utf-8')
+body=f'''<main id="main"><div class="wrap"><section class="mast"><div><div class="eyebrow">THE INDEPENDENT JOURNAL / VOL. 01</div><h1>{safe(home.get('headline'))}</h1></div><p>{safe(home.get('intro'))}</p></section>{carousel}<section id="stories"><div class="section-head"><h2>The reading room</h2><small>MACHINES / TIMEPIECES / CULTURE</small></div><div class="cards">{cards}</div></section></div><section class="feature-band"><div class="wrap"><div><div class="eyebrow">REDLINE & ROTORS</div><h2>Driven by curiosity.</h2></div><p>A journal for people who care about how things feel, how they're made, and where they take us.</p></div></section></main>'''
+(OUT/'index.html').write_text(page('Home',body+'<script src="/carousel.js" defer></script>',home.get('intro','')),encoding='utf-8')
 about=parse_post(ROOT/'content/about.md')
 about_html=f'''<main class="about"><div class="eyebrow">THE STORY BEHIND THE JOURNAL</div><h1>{safe(about.get('title','About'))}</h1><div class="article-body">{about['body']}</div></main>'''
 (OUT/'about').mkdir()
