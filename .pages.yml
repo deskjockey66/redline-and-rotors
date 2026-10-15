@@ -5,32 +5,36 @@ media:
   categories: [image]
 content:
   - name: articles
-    label: Articles
+    label: My entries
     type: collection
     path: content/posts
     fields:
       - {name: title, label: Title, type: string, required: true}
-      - {name: date, label: Date, type: date, required: true}
-      - {name: category, label: Section, type: string}
+      - {name: date, label: Entry or update date, type: date, required: true}
+      - {name: show_date, label: Show this date beside the title, type: boolean, default: true}
+      - {name: category, label: 'Category (Cars, Watches or Journal)', type: string, required: true}
+      - {name: format, label: 'Format (Quick note, Story, Photo post, What I paid, Repair or Update)', type: string}
+      - {name: ownership, label: 'Ownership (Owned or Sold)', type: string}
+      - {name: order, label: Order for entries with the same date, type: number, default: 0}
       - {name: summary, label: Short introduction, type: text}
-      - {name: cover, label: Cover photograph, type: image}
-      - {name: photo_credit, label: Photographer and licence, type: string, default: Photos supplied by the editor}
-      - {name: published, label: Publish this article, type: boolean, default: false}
-      - {name: body, label: Article, type: rich-text}
+      - {name: cover, label: Photograph (optional), type: image}
+      - {name: image_alt, label: Photograph description, type: string}
+      - {name: photo_credit, label: Photo credit, type: string, default: 'Photos are mine, taken on my phone.'}
+      - {name: published, label: Publish this entry, type: boolean, default: false}
+      - {name: body, label: 'Write as much or as little as you need; photos can stand alone', type: rich-text}
   - name: homepage
-    label: Homepage
+    label: Homepage and current collection note
     type: file
     path: content/homepage.yml
     fields:
       - {name: headline, label: Main headline, type: string}
       - {name: intro, label: Introduction, type: text}
-      - {name: hero_image, label: Feature photograph, type: image}
-      - {name: hero_kicker, label: Feature section label, type: string}
-      - {name: hero_title, label: Feature title, type: string}
-      - {name: hero_description, label: Feature introduction, type: text}
-      - {name: hero_link, label: 'Feature link (stories/article-name/)', type: string}
+      - {name: currently_driving, label: Currently driving, type: text}
+      - {name: currently_wearing, label: Currently wearing, type: text}
+      - {name: next_up, label: Still to write about, type: text}
+      - {name: contact, label: Contact profile, type: string}
   - name: about
-    label: About the journal
+    label: About Michael
     type: file
     path: content/about.md
     fields:
