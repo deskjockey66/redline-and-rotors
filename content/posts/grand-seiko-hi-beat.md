@@ -1,14 +1,13 @@
 ---
-title: 'Vintage Grand Seiko Hi-Beat: presence without polish'
-summary: A no-date vintage Grand Seiko on textured cloth, where age and clean proportions
-  share the dial.
-cover: media/grand-seiko-hi-beat.jpg
+title: "Vintage Grand Seiko Hi-Beat: presence without polish"
+date: 2026-10-14
 category: Timepieces
+summary: A no-date vintage Grand Seiko on textured cloth, where age and clean
+  proportions share the dial.
+cover: /redline-and-rotors/media/grand-seiko-hi-beat.jpg
+photo_credit: Photograph supplied by Michael
 published: true
-date: '2026-10-14'
-photo_credit: Photograph supplied by Michael Pinilla
 ---
-
 The first thing to notice is the absence of a date window. The second is everything the dial has accumulated in its place: uneven colour, faint marks and a surface that no longer looks factory fresh. Michael’s vintage Grand Seiko is not trying to compete with the flawless texture of a modern Spring Drive. Its appeal is more intimate. A simple time display, a broad case and a dark woven strap make an object that looks entirely wearable, even while its face records a life we cannot reconstruct from one photograph.
 
 The visible Seiko, GS, Automatic and Hi-Beat markings, together with a dial code beginning 5641, point toward the no-date 56GS family. That is a working identification, not a confirmed case reference or authentication. Dial printing alone cannot establish the case, movement or originality of every component. It is especially important not to turn Hi-Beat into an automatic claim of a 36,000-vibration movement. Grand Seiko used different frequencies across historic families. The 56GS context is useful precisely because it lets us discuss this watch without attaching the wrong generation’s headline specification.
