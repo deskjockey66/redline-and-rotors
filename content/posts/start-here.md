@@ -3,7 +3,8 @@ title: Welcome to Redline & Rotors
 date: 2026-10-14
 category: Journeys
 summary: An introduction to the journal and the stories to come.
-cover: ""
+cover: media/s15.jpg
+photo_credit: "crash71100 / CC0"
 published: true
 ---
 Welcome to **Redline & Rotors** — an independent journal built around three enduring interests: timepieces, machines, and miles.
