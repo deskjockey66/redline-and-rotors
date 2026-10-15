@@ -8,3 +8,6 @@
 
 /* Consistent portraits and reading metadata for the expanded reviews. */
 .watch-card .thumb{aspect-ratio:4/3;background:#e3dfd4}.watch-card .thumb img{object-fit:cover}.watch-card img[src*="zenith"]{object-position:50% 65%}.watch-card img[src*="hi-beat"]{object-position:50% 72%}.watch-hero{height:auto;aspect-ratio:auto;background:transparent}.watch-hero img{height:auto;max-height:850px;object-fit:contain}.article-body h3{font:700 20px Arial, sans-serif;margin-top:36px}.article-body p:last-child{margin-bottom:0}.article-body table{width:100%;border-collapse:collapse;font:15px/1.6 Arial,sans-serif}.article-body td,.article-body th{padding:10px;border-bottom:1px solid var(--line);text-align:left}
+
+/* Keep the submitted portrait RS3 photographs visible in full. */
+.article-hero:has(img[src*="audi-rs3"]){height:auto;aspect-ratio:auto;background:transparent}.article-hero img[src*="audi-rs3"]{height:auto;max-height:900px;object-fit:contain}.thumb img[src*="audi-rs3-front"]{object-position:50% 72%}
