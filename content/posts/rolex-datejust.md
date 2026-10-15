@@ -1,14 +1,13 @@
 ---
-title: 'Rolex Datejust: smooth bezel, strong presence'
-date: '2026-10-14'
+title: "Rolex Datejust: smooth bezel, strong presence"
+date: 2026-10-14
 category: Timepieces
-summary: A dark dial and Jubilee-style bracelet show why quieter details do not always
-  make a quieter watch.
-cover: media/rolex-datejust.jpg
-photo_credit: Photograph supplied by Michael Pinilla
+summary: A dark dial and Jubilee-style bracelet show why quieter details do not
+  always make a quieter watch.
+cover: /redline-and-rotors/media/rolex-datejust.jpg
+photo_credit: Photograph supplied by Michael
 published: true
 ---
-
 The Datejust is often described as the safe choice. That description misses how strongly a configuration can change its character. Michael’s example combines a dark dial, a broad smooth bezel and a five-link Jubilee-style bracelet. It looks composed, but it is not visually timid. The bezel gives the face a continuous ring of reflected light, while the bracelet breaks that light into smaller flashes. The two surfaces do different work. Together they make a watch that looks more considered than a plain dial-and-case description would suggest.
 
 The photograph establishes the Datejust name, baton-style markers, date magnifier and smooth-bezel configuration. It does not conclusively establish the case diameter, reference or movement generation. The dial’s scale and proportions suggest a modern larger configuration, but a wrist photograph is not a substitute for a reference check. Accordingly, specifications of the current Datejust 41 are used as comparisons, not assigned automatically to this watch. That approach avoids a familiar review mistake: describing a recognizably similar watch so confidently that the actual example disappears beneath the catalogue entry.
