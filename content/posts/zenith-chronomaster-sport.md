@@ -6,7 +6,7 @@ cover: media/zenith-chronomaster-sport.jpg
 category: Timepieces
 published: true
 date: '2026-10-14'
-photo_credit: Photograph supplied by Michael
+photo_credit: Photos supplied by the editor
 ---
 
 The Zenith is the watch that appeals to the part of me that enjoys a machine for what it does. I like the white dial and coloured registers, but the reason it holds my attention is the chronograph. There is something satisfying about a complication with a distinct visual behaviour, rather than another feature buried in a specification table. The black bezel gives the dial a clear frame and the blue, grey and silver counters stop it becoming anonymous.

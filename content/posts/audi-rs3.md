@@ -4,7 +4,7 @@ date: 2026-10-15
 category: Machines
 summary: A white five-cylinder Sportback, considered around the work commute, rear-seat access, family bags and the compromises hiding beneath a practical shape.
 cover: /media/audi-rs3-front.jpg
-photo_credit: Photographs supplied by Michael
+photo_credit: Photos supplied by the editor
 published: true
 ---
 

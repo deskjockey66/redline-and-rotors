@@ -5,7 +5,7 @@ category: Timepieces
 summary: 'My view of an aged no-date Grand Seiko on woven cloth: a quiet dial, compact-looking
   case and a different sort of everyday character.'
 cover: /redline-and-rotors/media/grand-seiko-hi-beat.jpg
-photo_credit: Photograph supplied by Michael
+photo_credit: Photos supplied by the editor
 published: true
 ---
 

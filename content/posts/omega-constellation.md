@@ -5,7 +5,7 @@ category: Timepieces
 summary: 'A vintage C-style case on lilac: my take on warm metal, a restrained dial
   and making an older Omega feel at home in an ordinary week.'
 cover: /redline-and-rotors/media/omega-constellation.jpg
-photo_credit: Photograph supplied by Michael
+photo_credit: Photos supplied by the editor
 published: true
 ---
 

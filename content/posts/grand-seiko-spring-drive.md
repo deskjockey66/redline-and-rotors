@@ -5,7 +5,7 @@ category: Timepieces
 summary: The textured grey dial, sculpted case and Spring Drive engineering make this
   my quiet alternative for work, commuting and the details between.
 cover: /redline-and-rotors/media/grand-seiko-spring-drive.jpg
-photo_credit: Photograph supplied by Michael
+photo_credit: Photos supplied by the editor
 published: true
 ---
 

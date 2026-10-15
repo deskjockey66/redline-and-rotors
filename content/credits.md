@@ -1,7 +1,7 @@
 ---
 title: Photography credits
 ---
-All photographs published on Redline & Rotors are supplied by Michael from his own submissions.
+All photographs published on Redline & Rotors are supplied by the editor from the editor’s own submissions.
 
 The photographs feature the silver Nissan R35 GT-R, white Audi RS3 Sportback, Rolex Submariner Date, Grand Seiko Spring Drive, Omega Constellation, Rolex Datejust, Zenith Chronomaster Sport and vintage Grand Seiko Hi-Beat.
 

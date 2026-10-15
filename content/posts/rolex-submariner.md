@@ -5,7 +5,7 @@ category: Timepieces
 summary: 'My take on the black-dial Submariner on orange: bold colour, substantial
   proportions and the line between an everyday diver and an office watch.'
 cover: /redline-and-rotors/media/rolex-submariner-orange.jpg
-photo_credit: Photograph supplied by Michael
+photo_credit: Photos supplied by the editor
 published: true
 ---
 

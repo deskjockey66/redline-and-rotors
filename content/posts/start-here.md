@@ -4,7 +4,7 @@ date: 2026-10-14
 category: Journeys
 summary: An introduction to the journal and the stories to come.
 cover: media/gtr-rear.jpg
-photo_credit: Photograph supplied by Michael
+photo_credit: Photos supplied by the editor
 published: true
 ---
 Welcome to **Redline & Rotors** — an independent journal built around three enduring interests: timepieces, machines, and miles.

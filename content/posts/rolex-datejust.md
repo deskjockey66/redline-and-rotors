@@ -5,7 +5,7 @@ category: Timepieces
 summary: 'A smooth bezel, dark dial and Jubilee-style bracelet: my view of the Datejust
   as an office companion with more shine than its restrained face suggests.'
 cover: /redline-and-rotors/media/rolex-datejust.jpg
-photo_credit: Photograph supplied by Michael
+photo_credit: Photos supplied by the editor
 published: true
 ---
 
