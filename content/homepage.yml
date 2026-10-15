@@ -1,7 +1,9 @@
-headline: "Mechanical soul."
-intro: "Japanese performance. Remarkable watches. An independent journal for the beautifully engineered."
-hero_image: media/gtr-front.jpg
-hero_kicker: "THE COVER STORY / MACHINES"
-hero_title: "The R35. A different kind of icon."
-hero_description: "Muscle, precision and an unmistakable silhouette. Looking closer at the machine that redefined the GT-R."
+headline: Mechanical soul.
+intro: All things automotive. Remarkable watches I’ve collected. An independent
+  journal for the engineered machine.
+hero_image: /redline-and-rotors/media/gtr-front.jpg
+hero_kicker: THE COVER STORY / MACHINES
+hero_title: The R35. A different kind of icon.
+hero_description: Muscle, precision and an unmistakable silhouette. Looking
+  closer at the machine that redefined the GT-R.
 hero_link: stories/r35/
