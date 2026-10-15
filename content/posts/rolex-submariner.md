@@ -1,14 +1,13 @@
 ---
-title: 'Rolex Submariner Date: the orange-strap reset'
-date: '2026-10-14'
+title: "Rolex Submariner Date: the orange-strap reset"
+date: 2026-10-14
 category: Timepieces
-summary: The familiar black diver, reconsidered through case proportions, wrist presence
-  and a vivid change of strap.
-cover: media/rolex-submariner-orange.jpg
-photo_credit: Photograph supplied by Michael Pinilla
+summary: The familiar black diver, reconsidered through case proportions, wrist
+  presence and a vivid change of strap.
+cover: /redline-and-rotors/media/rolex-submariner-orange.jpg
+photo_credit: Photograph supplied by Michael
 published: true
 ---
-
 The orange strap does more than add colour. It changes the balance of the whole watch. In Michael’s new photograph, the black dial and dark bezel remain recognizably Submariner, but the bright band pulls the eye past the case and onto the wrist. The result feels closer to a purposefully dressed sporting instrument than a steel-bracelet status object. It is still assertive, but its personality is less predictable. That is a meaningful transformation for a design whose familiarity can make it difficult to see afresh.
 
 This is a photograph-led review supported by reference research, rather than a claim to have worn or timed this example. The dial identifies a Submariner Date, while its exact reference remains unconfirmed. The broad lugs suggest a substantial ceramic-era configuration, but a close wrist photograph is not a reliable way to distinguish every generation. The discussion therefore separates visible details from comparisons with documented production models. No case diameter, movement calibre or strap brand is assigned to this individual watch without evidence.
