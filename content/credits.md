@@ -3,9 +3,9 @@ title: Photography credits
 ---
 All photographs are stored with this site. They are reproduced under the permissions below. Images have been resized and compressed; layouts may crop them. No photographer endorsement is implied. The Seiko and Wolbrook image adaptations retain their respective ShareAlike licences.
 
-## Nissan R35 GT-R
+## Reader-supplied photographs
 
-**OSX**, “2009-2010 Nissan GT-R (R35) coupe 01.jpg”. Released by the photographer into the public domain. [Original and public-domain declaration](https://commons.wikimedia.org/wiki/File:2009-2010_Nissan_GT-R_(R35)_coupe_01.jpg).
+The silver Nissan R35 GT-R (front and rear), Rolex Submariner Date, Grand Seiko Spring Drive, Omega Constellation and Rolex Datejust photographs were supplied by Michael Pinilla for publication on Redline & Rotors. They have been resized and compressed for web use. These photographs are not offered under the Creative Commons licences listed below.
 
 ## Nissan Silvia S15
 
