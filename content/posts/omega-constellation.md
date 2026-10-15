@@ -1,14 +1,13 @@
 ---
-title: 'Omega Constellation: the C-case, reconsidered'
-date: '2026-10-14'
+title: "Omega Constellation: the C-case, reconsidered"
+date: 2026-10-14
 category: Timepieces
-summary: A gold-toned vintage case and lilac strap turn a formal watch into something
-  more personal.
-cover: media/omega-constellation.jpg
-photo_credit: Photograph supplied by Michael Pinilla
+summary: A gold-toned vintage case and lilac strap turn a formal watch into
+  something more personal.
+cover: /redline-and-rotors/media/omega-constellation.jpg
+photo_credit: Photograph supplied by Michael
 published: true
 ---
-
 The lilac strap is the first surprise, but it is not the only reason this Constellation works. Michael’s photograph shows a pale dial surrounded by a warm, broad case whose outline is more architectural than delicate. Thin markers and restrained hands stop the design becoming heavy. Against the soft colour of the band, the watch feels less like a formal heirloom and more like an object that has found a new everyday role. The combination succeeds because it respects the dial’s simplicity while refusing to treat vintage styling as a fixed set of rules.
 
 The case has the rounded shoulders associated with Omega’s vintage Constellation C family. The exact reference, year and case composition remain unconfirmed. A gold tone in a photograph is not evidence of solid gold, and a familiar dial layout does not identify the calibre underneath it. This review therefore uses the C-family as historical context and the supplied photograph for its design assessment. Published observations about other Constellations are identified as context, rather than represented as a hands-on test of this example. That leaves plenty of specific detail to evaluate without inventing a specification.
