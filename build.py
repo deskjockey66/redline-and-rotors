@@ -1,6 +1,6 @@
 from pathlib import Path
 from datetime import date, datetime
-from html import escape
+from html import escape, unescape
 import shutil, yaml, os, re, math
 from html.parser import HTMLParser
 try:
@@ -50,7 +50,17 @@ def safe(x):return escape(str(x or ''),quote=True)
 BASE=os.environ.get('SITE_BASE_PATH','/redline-and-rotors').rstrip('/')
 def url(x):
     x=str(x or '')
-    return x if x.startswith(('https://','http://','#')) or (BASE and x.startswith(BASE+'/')) else BASE+'/'+x.lstrip('/')
+    if not x or x.startswith(('https://','http://','//','#','mailto:','tel:','data:')):
+        return x
+    # Accept old Pages CMS paths as well as new domain-neutral media paths.
+    legacy='/redline-and-rotors'
+    if x == legacy:
+        x='/'
+    elif x.startswith(legacy+'/') or x.startswith(legacy+'#'):
+        x=x[len(legacy):]
+    if BASE and (x == BASE or x.startswith(BASE+'/')):
+        return x
+    return BASE+'/'+x.lstrip('/')
 
 def asset(x):
     x=str(x or '').strip()
@@ -62,7 +72,7 @@ def header():
 def page(title,body,description='Timepieces. Machines. Miles.'):
     html=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#f4f1e9"><title>{safe(title)} — Redline & Rotors</title><meta name="description" content="{safe(description)}"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/style.css"></head><body>{header()}{body}<footer><div class="wrap footer-row"><span>© {date.today().year} REDLINE & ROTORS · TIMEPIECES. MACHINES. MILES.</span><span>INDEPENDENT BY DESIGN</span></div><a href="/credits/">Photography credits</a> · <a href="https://app.pagescms.org/">Publish an article ↗</a></footer></body></html>'''
     import re
-    return re.sub(r'(href|src)="/(?!redline-and-rotors/)([^"]*)"',lambda m:m[1]+'="'+BASE+'/'+m[2]+'"',html)
+    return re.sub(r'(href|src)="(/[^"]*)"',lambda m:m[1]+'="'+safe(url(unescape(m[2])))+'"',html)
 
 posts=[parse_post(p) for p in (ROOT/'content/posts').glob('*.md')]
 posts=[p for p in posts if p.get('published',True)]

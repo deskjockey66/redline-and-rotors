@@ -19,8 +19,11 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      - run: python build.py
       - uses: actions/configure-pages@v5
+        id: pages
+      - run: python build.py
+        env:
+          SITE_BASE_PATH: ${{ steps.pages.outputs.base_path }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
