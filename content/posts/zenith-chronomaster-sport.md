@@ -6,7 +6,7 @@ cover: media/zenith-chronomaster-sport.jpg
 category: Timepieces
 published: true
 date: '2026-10-14'
-photo_credit: Photograph supplied by Michael Pinilla
+photo_credit: Photograph supplied by Michael
 ---
 
 There is more going on here than the black bezel first suggests. The pale dial carries three overlapping registers, the outer scale is marked for fractions of a second, and the pushers project cleanly from a case without protective shoulders. Michael’s photograph captures a Zenith Chronomaster Sport that looks settled on the wrist while keeping a sense of mechanical activity. The colours do useful work: blue, grey and silver divide the chronograph’s information without turning the dial into a collection of unrelated instruments. It looks technical, but not joyless.

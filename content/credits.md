@@ -5,7 +5,7 @@ All photographs are stored with this site. They are reproduced under the permiss
 
 ## Reader-supplied photographs
 
-The silver Nissan R35 GT-R (front and rear), Rolex Submariner Date, Grand Seiko Spring Drive, Omega Constellation and Rolex Datejust, Zenith Chronomaster Sport and vintage Grand Seiko Hi-Beat photographs were supplied by Michael Pinilla for publication on Redline & Rotors. They have been resized and compressed for web use. These photographs are not offered under the Creative Commons licences listed below.
+The silver Nissan R35 GT-R (front and rear), Rolex Submariner Date, Grand Seiko Spring Drive, Omega Constellation and Rolex Datejust, Zenith Chronomaster Sport and vintage Grand Seiko Hi-Beat photographs were supplied by Michael for publication on Redline & Rotors. They have been resized and compressed for web use. These photographs are not offered under the Creative Commons licences listed below.
 
 ## Nissan Silvia S15
 
