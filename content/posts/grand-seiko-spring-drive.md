@@ -1,14 +1,13 @@
 ---
-title: 'Grand Seiko Spring Drive: a winter dial with an engineered heart'
-date: '2026-10-14'
+title: "Grand Seiko Spring Drive: a winter dial with an engineered heart"
+date: 2026-10-14
 category: Timepieces
-summary: 'Dial texture, a faceted case and the question of lightness: a closer look
-  at this modern Grand Seiko.'
-cover: media/grand-seiko-spring-drive.jpg
-photo_credit: Photograph supplied by Michael Pinilla
+summary: "Dial texture, a faceted case and the question of lightness: a closer
+  look at this modern Grand Seiko."
+cover: /redline-and-rotors/media/grand-seiko-spring-drive.jpg
+photo_credit: Photograph supplied by Michael
 published: true
 ---
-
 A quiet grey dial can be surprisingly difficult to photograph. In Michael’s image, the surface looks almost stone-like, with irregular pale folds beneath sharply finished markers. The blue seconds hand cuts through that texture with a clean line, while the small gold-coloured GS emblem adds warmth. This is a watch whose personality emerges at close range. It does not need a dark timing bezel or a row of chronograph pushers to hold attention. It asks the eye to move between soft texture and hard edges, and that relationship carries the whole design.
 
 The combination is visually consistent with the SBGA415 Winter configuration, but the reference remains provisional until confirmed from the watch or its documentation. That distinction governs the specifications in this review. The SBGA415 provides a documented point of comparison, rather than permission to assign material, weight and calibre to an unidentified example. The photograph establishes a Spring Drive dial, date and power-reserve layout. It also shows enough of the case and bracelet to discuss proportions. Mechanical performance and sustained wearing comfort require a different kind of evidence.
