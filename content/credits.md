@@ -5,7 +5,7 @@ All photographs are stored with this site. They are reproduced under the permiss
 
 ## Reader-supplied photographs
 
-The silver Nissan R35 GT-R (front and rear), Rolex Submariner Date, Grand Seiko Spring Drive, Omega Constellation and Rolex Datejust photographs were supplied by Michael Pinilla for publication on Redline & Rotors. They have been resized and compressed for web use. These photographs are not offered under the Creative Commons licences listed below.
+The silver Nissan R35 GT-R (front and rear), Rolex Submariner Date, Grand Seiko Spring Drive, Omega Constellation and Rolex Datejust, Zenith Chronomaster Sport and vintage Grand Seiko Hi-Beat photographs were supplied by Michael Pinilla for publication on Redline & Rotors. They have been resized and compressed for web use. These photographs are not offered under the Creative Commons licences listed below.
 
 ## Nissan Silvia S15
 
@@ -18,3 +18,5 @@ The silver Nissan R35 GT-R (front and rear), Rolex Submariner Date, Grand Seiko 
 ## Vintage Wolbrook Skindiver
 
 **Joe Haupt**, “Vintage Wolbrook Skindiver Manual-Wind Watch, Made in France (9722651939).jpg”. [Original photograph](https://commons.wikimedia.org/wiki/File:Vintage_Wolbrook_Skindiver_Manual-Wind_Watch,_Made_in_France_(9722651939).jpg). [CC BY-SA 2.0 Generic](https://creativecommons.org/licenses/by-sa/2.0/). Resized and compressed for web use; display cropping under the same licence.
+
+The Submariner review now uses the supplied orange-strap photograph. The previous mountain photograph is no longer its cover.
