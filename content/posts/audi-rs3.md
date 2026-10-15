@@ -31,7 +31,7 @@ Five hundred horsepower and 600 Nm were serious figures in a compact car. The im
 
 An upgraded high-pressure pump could support the fuel delivery demanded by a more ambitious calibration. The intercooler helped control the temperature of compressed intake air. The downpipes changed the exhaust side of the system. None of those parts should be treated as a separate guarantee of an output; the calibration and the hardware had to work as a package.
 
-I recorded the supplied power and torque figures for my car without turning them into a claimed acceleration time. That distinction kept the review specific to the build. It was already a very different specification from a standard RS3, and repeating a factory performance number would have made the comparison less useful.
+At this level, I saw the car as a complete modified package. The attraction was how much performance could sit inside a relatively compact five-door body, with the five-cylinder supplying the character. The supporting fuel and cooling hardware mattered because the tune needed more than an exhaust change to make sense.
 
 ![The engine bay of my RS3](/media/audi-rs3-engine.jpg)
 
@@ -39,7 +39,7 @@ I recorded the supplied power and torque figures for my car without turning them
 
 The RS3 paired its engine with a dual-clutch transmission and all-wheel drive. That combination made sense with the output: the gearbox could change ratios quickly, while the driven wheels offered more ways to use available grip than a front-drive layout alone. Grip still depended on conditions, and a fast gearbox didn't turn every road into an appropriate place to use the power.
 
-What interested me was the packaging. The car kept the basic usefulness of a five-door hatchback while carrying an engine I actively wanted to hear. Compared with the GT-R that replaced it, the rear doors were an obvious practical advantage. Having a daughter made that difference relevant to how I thought about the two cars, even without needing to invent a school-run story for the Audi.
+What interested me was the packaging. The car kept the basic usefulness of a five-door hatchback while carrying an engine I actively wanted to hear. Compared with the GT-R that replaced it, the rear doors were an obvious practical advantage. Having a daughter made that difference relevant when I thought about what each car asked of me during ordinary use.
 
 The performance hardware didn't change the underlying shape into something especially exotic. I liked that contrast within the design. A relatively compact body gave the five-cylinder a usable setting, and the engine gave an otherwise familiar type of car a very particular reason to exist in my garage.
 
@@ -49,7 +49,7 @@ The lowering springs changed the car's attitude, and the Flow Designs aero kit g
 
 Lowering a car also reduced the clearance available underneath it. Spring rate and the remaining suspension travel influenced how a setup dealt with bumps, so appearance couldn't be the only consideration. I regarded the springs and aero as a set of choices attached to this particular car, rather than a universal recipe everyone should copy.
 
-The visual result was part of the ownership appeal. The mechanical modifications answered why I wanted to drive it; the stance helped explain why I liked the car when it was parked. Both were legitimate parts of the review, provided I kept them separate from unmeasured claims about handling or downforce.
+The visual result was part of the ownership appeal. The mechanical modifications answered why I wanted to drive it; the stance helped explain why I liked the car when it was parked. Both were parts of why the complete car appealed to me.
 
 ## What I would pay attention to on another modified example
 
