@@ -14,6 +14,7 @@ if OUT.exists():shutil.rmtree(OUT)
 OUT.mkdir();shutil.copytree(ROOT/'media',OUT/'media');shutil.copy(ROOT/'favicon.svg',OUT/'favicon.svg');(OUT/'.nojekyll').touch()
 HOME=yaml.safe_load((ROOT/'content/homepage.yml').read_text())
 CONTACT=HOME.get('contact','https://www.instagram.com/redlinenrotors/')
+JS='journal.'+hashlib.sha256((ROOT/'journal.js').read_bytes()).hexdigest()[:12]+'.js';shutil.copy(ROOT/'journal.js',OUT/JS)
 CSS='style.'+hashlib.sha256((ROOT/'style.css').read_bytes()).hexdigest()[:12]+'.css';shutil.copy(ROOT/'style.css',OUT/CSS)
 def safe(x):return escape(str(x or ''),quote=True)
 def url(x):
@@ -33,8 +34,13 @@ posts=[read(p) for p in (ROOT/'content/posts').glob('*.md')];posts=[p for p in p
 posts.sort(key=lambda p:(str(p.get('date','')),int(p.get('order',0)),p['slug']),reverse=True)
 NAV=[('/','Home'),('/cars/','Cars'),('/watches/','Watches'),('/about/','About')]
 def page(title,body,description='Michael’s cars and watches. An ownership journal from Brisbane.'):
- nav=''.join(f'<a href="{href}">{label}</a>' for href,label in NAV)
- doc=f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#f4f1e9"><title>{safe(title)} | Redline & Rotors</title><meta name="description" content="{safe(description)}"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/{CSS}"></head><body><a class="skip" href="#main">Skip to content</a><header><div class="wrap header"><a class="brand" href="/">REDLINE <span>&</span> ROTORS</a><nav aria-label="Main navigation">{nav}</nav></div></header>{body}<footer><div class="wrap"><p>Michael’s collection journal · Brisbane, Australia</p><a href="{safe(CONTACT)}">Say hello on Instagram ↗</a><p class="fine">Photos are mine, taken on my phone. · <a href="/credits/">About the photos</a></p></div></footer></body></html>'''
+ nav=''
+ for href,label in NAV:
+  if label in ('Cars','Watches'):
+   links=''.join(f'<a href="/stories/{p["slug"]}/">{safe(p["title"])}</a>' for p in posts if p.get('category')==label)
+   nav+=f'<details class="nav-drop"><summary>{label}<span aria-hidden="true">⌄</span></summary><div class="dropdown"><a class="all-link" href="{href}">All {label.lower()} ↗</a>{links}</div></details>'
+  else:nav+=f'<a class="nav-link" href="{href}">{label}</a>' 
+ doc=f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#f4f1e9"><title>{safe(title)} | Redline & Rotors</title><meta name="description" content="{safe(description)}"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/{CSS}"><script src="/{JS}" defer></script></head><body><a class="skip" href="#main">Skip to content</a><header><div class="wrap utility"><span>CARS & WATCHES</span><a href="{safe(CONTACT)}">@redlinenrotors ↗</a></div><div class="wrap header"><a class="brand" href="/">REDLINE <span>&</span> ROTORS</a><nav aria-label="Main navigation">{nav}</nav></div></header>{body}<footer><div class="wrap"><p>REDLINE & ROTORS · CARS & WATCHES</p><a href="{safe(CONTACT)}">Say hello on Instagram ↗</a><p class="fine">Photos are mine, taken on my phone. · <a href="/credits/">About the photos</a></p></div></footer></body></html>'''
  return re.sub(r'(href|src)="(/[^\"]*)"',lambda m:m[1]+'="'+safe(url(unescape(m[2])))+'"',doc)
 def write(path,title,body,desc='Michael’s cars and watches. An ownership journal from Brisbane.'):
  p=OUT/path/'index.html';p.parent.mkdir(parents=True,exist_ok=True);p.write_text(page(title,body,desc))
@@ -56,8 +62,13 @@ for p in posts:
  content=f'''<main id="main" class="article wrap"><div class="article-heading"><p class="meta">{meta(p)}</p><h1>{safe(p['title'])}</h1><p class="deck">{safe(p.get('summary',''))}</p></div>{hero}<div class="prose">{p['body']}{updated}<p class="back"><a href="/">← Back to the journal</a></p></div></main>'''
  write(Path('stories')/p['slug'],p['title'],content,p.get('summary',''))
 h=yaml.safe_load((ROOT/'content/homepage.yml').read_text());latest=posts[0] if posts else None
-feature=f'''<section class="latest"><a class="latest-image" href="/stories/{latest['slug']}/">{image(latest,priority=True)}</a><div><p class="meta">Latest entry · {meta(latest)}</p><h2><a href="/stories/{latest['slug']}/">{safe(latest['title'])}</a></h2><p>{safe(latest.get('summary',''))}</p><a class="read" href="/stories/{latest['slug']}/">Read entry ↗</a></div></section>''' if latest else '<p>My first entry is on its way.</p>'
-body=f'''<main id="main" class="wrap"><section class="intro"><p class="meta">Michael · Brisbane</p><h1>{safe(h['headline'])}</h1><p>{safe(h['intro'])}</p><a class="read" href="/about/">A bit about me ↗</a></section><aside class="current"><p><strong>Driving</strong> {safe(h.get('currently_driving',''))}</p><p><strong>On my wrist</strong> {safe(h.get('currently_wearing',''))}</p></aside>{feature}<section class="entries"><div class="section-head"><h2>More from my collection</h2><p>Some I kept. Some I sold.</p></div><div class="grid">{''.join(card(p) for p in posts[1:])}</div></section><aside class="next"><h2>Still to write about</h2><p>{safe(h.get('next_up',''))}</p><a href="{safe(CONTACT)}">Contact me at @redlinenrotors ↗</a></aside></main>'''
+slides=[];dots=[]
+for i,p in enumerate(posts):
+ visual=image(p,priority=i==0) if p.get('cover') else '<img src="/media/gtr-rear.jpg" alt="My GT-R photographed from the rear" loading="lazy">'
+ slides.append(f'''<article class="hero-slide" data-slide data-title="{safe(p['title'])}" role="group" aria-roledescription="slide" aria-label="{i+1} of {len(posts)}"{'' if i==0 else ' hidden'}><a class="hero-visual" href="/stories/{p['slug']}/">{visual}</a><div class="hero-info"><p class="meta">{safe(p.get('category','Journal'))} / {meta(p)}</p><h2><a href="/stories/{p['slug']}/">{safe(p['title'])}</a></h2><p>{safe(p.get('summary',''))}</p><a class="button" href="/stories/{p['slug']}/">Read the story ↗</a></div></article>''')
+ dots.append(f'<button data-slide-to="{i}" aria-label="Show story {i+1}: {safe(p["title"])}" aria-pressed="{str(i==0).lower()}"><span></span></button>')
+feature=f'''<section class="hero-carousel" data-carousel role="region" aria-roledescription="carousel" aria-label="Featured stories">{''.join(slides)}<div class="carousel-controls" data-controls hidden><div class="carousel-dots">{''.join(dots)}</div><div class="carousel-actions"><span data-count>1 / {len(posts)}</span><button data-prev aria-label="Previous story">←</button><button data-toggle>Pause</button><button data-next aria-label="Next story">→</button></div></div><p class="sr-only" data-status aria-live="polite"></p></section>'''
+body=f'''<main id="main" class="wrap"><section class="mast"><h1>{safe(h['headline'])}</h1><p>{safe(h['intro'])}</p></section>{feature}<section class="entries"><div class="section-head"><h2>From the collection</h2><p><a href="/cars/">Cars ↗</a> <span>/</span> <a href="/watches/">Watches ↗</a></p></div><div class="grid">{''.join(card(p) for p in posts)}</div></section><aside class="next"><h2>Coming up</h2><p>{safe(h.get('next_up',''))}</p><a href="{safe(CONTACT)}">Follow @redlinenrotors ↗</a></aside></main>'''
 write(Path(''),'Home',body,h['intro'])
 for cat,path,intro in [('Cars','cars','The GT-R I kept and the RS3 I sold. My first JDM car was an R33 GTST.'),('Watches','watches','What I wore, what I sold and what stayed in the box.')]:
  chosen=[p for p in posts if p.get('category')==cat]
