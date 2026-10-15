@@ -43,7 +43,7 @@ My reaction during ownership was much simpler than the manufacturing explanation
 
 ## Wearability at the office
 
-I recorded it as a 40 mm watch, and it wore well for me. Office wear was its actual place in my routine. That mattered because it gave me a useful setting for judging the watch: I liked having the detail available close up without needing a large sports bezel around the dial.
+I recorded it as a 40 mm watch, and it wore well for me. Office wear was its actual place in my routine. I liked having the detail available close up without a large sports bezel around the dial. It suited that setting well for me.
 
 The size of the visible dial and the shape of the lugs were both relevant to that impression. A pale dial could look quite open on the wrist, so diameter alone didn't explain its presence. The bracelet also extended the metallic finish around the wrist, keeping the case from being the only reflective part of the watch.
 
@@ -61,4 +61,4 @@ It also connected with why my original SKX had interested me. Both made me curio
 
 I sold it when the Cartier became the watch I wanted more. That was a change in preference, rather than a discovery that the Grand Seiko wasn't good. Its strengths remained the finishing, the dial's depth and the distinctive movement. The possible hesitation was that the polished case and open pale face still had a definite presence, despite the relatively restrained design.
 
-For me, this was a successful watch that didn't have to become a permanent possession. I enjoyed wearing it, understood why the finishing appealed to me and eventually chose a different direction for the collection. A proper review needed to leave all of that on the page.
+For me, this was a successful watch that didn't have to become a permanent possession. I enjoyed wearing it, understood why the finishing appealed to me and eventually chose a different direction for the collection. I still thought highly of it after it left the collection.

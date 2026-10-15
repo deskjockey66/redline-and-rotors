@@ -31,7 +31,7 @@ The calibre 3135 was a self-winding mechanical movement with a date function and
 
 An automatic movement used wrist motion to replenish the mainspring through its winding system. Stored energy then passed through the gear train and escapement to drive the hands. That basic mechanical process was the reason watches held my interest in the first place. I had started with an SKX007 and still liked the idea of a small machine working away on my wrist.
 
-I didn't need the Submariner to have a display back to appreciate that. The visible experience was the dial and the case; knowing what powered it supplied another layer of interest. The movement was relevant to ownership without needing me to pretend I had carried out a timing test or opened the watch myself.
+I didn't need the Submariner to have a display back to appreciate that. The visible experience was the dial and the case; knowing what powered it supplied another layer of interest. That connection between the visible design and the machinery underneath was enough to keep my interest.
 
 ## Wearability: substantial, even on a strap
 

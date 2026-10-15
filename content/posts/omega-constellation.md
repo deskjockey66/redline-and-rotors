@@ -15,7 +15,7 @@ order: 40
 
 My Constellation arrived without a strap. I bought it watch-only from a dealer through Facebook, then fitted the purple Delugs CTS strap in the photograph. Choosing that strap was part of making the watch mine, rather than an attempt to reproduce an original catalogue configuration.
 
-It wore nicely on my wrist. It also went through a period of receiving very little wrist time this year while the Submariner became my regular choice. Both facts belonged in a useful review. I could enjoy the Omega's shape and the strap combination without pretending it was the watch I wore every day.
+It wore nicely on my wrist. It also went through a period of receiving very little wrist time this year while the Submariner became my regular choice. I could enjoy the Omega's shape and the strap combination even while the Submariner took most of the wrist time.
 
 ## The case gave it a different character
 

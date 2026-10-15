@@ -15,7 +15,7 @@ order: 30
 
 I bought this vintage Seiko Hi-Beat from a dealer in Japan because of the marks on its dial. They were the feature that made this particular watch interesting to me. A cleaner example might have appealed to someone else, but the ageing was part of why I wanted this one.
 
-It hardly got worn. That was the ownership reality, although there was more to review than the amount of time it spent in the box. The dial, case and automatic movement represented a different approach to a watch from the modern Submariner that dominated my wrist time. Understanding that difference helped explain both its appeal and its limitations within my collection.
+It hardly got worn. That was the ownership reality, although there was more to review than the amount of time it spent in the box. The dial, case and automatic movement represented a different approach to a watch from the modern Submariner that dominated my wrist time. That difference was part of why it interested me.
 
 ## The dial was the main event
 
@@ -51,6 +51,6 @@ It hardly got worn, so my own comfort assessment remained limited. Its appearanc
 
 The modern Grand Seiko had impressed me with its polishing and frost-textured dial. This vintage watch offered a different sort of detail. The texture here came from the condition of the actual dial, rather than an intentionally patterned modern finish. That made the two watches interesting to compare without pretending they fulfilled the same role.
 
-It also reminded me that interest and use weren't always equal. I could be drawn to a particular dial, buy the watch and still choose something else most mornings. A complete review needed to acknowledge that while explaining what had attracted me, rather than collapse the whole assessment into either enthusiasm or regret.
+It also reminded me that interest and use weren't always equal. I could be drawn to a particular dial, buy the watch and still choose something else most mornings. That left me with a watch I enjoyed looking at more often than I actually wore it.
 
 My verdict was that the watch's strength was the combination of an individual dial and a restrained, purposeful design. Its limitation in my collection was the lack of wrist time, with the usual need for reference and condition checks before making detailed mechanical claims about a vintage example. I bought it because those marks made it distinctive. I still understood that choice, even when I wasn't reaching for it very often.
