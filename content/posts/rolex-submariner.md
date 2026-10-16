@@ -57,6 +57,4 @@ I still wish the case were about a millimetre thinner. But when I look at how of
 
 ## The verdict after actually choosing it
 
-The strongest evidence in the Submariner's favour was how often I wore it. I could enjoy a more unusual dial or an interesting chronograph and still find myself returning to this watch. Its black-and-white display gave it a clear identity, and the orange strap added the part that felt more specifically mine.
-
-The case remained the weakness. I would happily have taken a slightly thinner version with the same general appearance. That preference was consistent with why I later moved the Zenith on, although the outcome here was different. I kept using the Rolex despite the compromise.
+For me, the Submariner is the ultimate go-anywhere, do-anything watch. I love its classic design and how easily it works with a suit or beachwear. The orange Delugs strap gives it a different feel in summer, but the versatility is there either way. I'd still prefer a slightly thinner case. It just hasn't stopped me reaching for it more than anything else.
