@@ -37,11 +37,13 @@ The performance hardware didn't change the underlying shape into something espec
 
 The visual result was part of the ownership appeal. The mechanical modifications answered why I wanted to drive it; the stance helped explain why I liked the car when it was parked. Both were parts of why the complete car appealed to me.
 
-## What I would pay attention to on another modified example
+## What I still remember
 
-This car helped clarify which parts of a modification list were most meaningful to me. I remembered the sound of the five-cylinder and especially the effect of the mid-pipe. If I were looking at another RS3, I would want to understand the complete tune and supporting hardware, while making sure I still liked the way that individual car sounded. The engine was the original attraction, so changing everything around it needed to preserve that appeal.
+I can list the modifications on my RS3, but the sound is what comes back to me first. The mid-pipe was my favourite change because it made the five-cylinder louder. I remember the downshifts drawing attention on a drive to the Gold Coast.
 
-The springs would deserve the same attention. Lowering could alter the relationship between the springs, dampers and available travel. A stance I liked in a photograph was one part of the decision; the way the complete setup dealt with the roads I intended to use would be another. The attraction of the RS3 was having the engine in a practical shape, and I would want the modifications to leave enough of that practicality intact.
+The car was pearl white, had reached 100,000 km when I recorded its details and made **500 hp and 600 Nm** with the ECO Tune Stage 2+ setup. It had Xforce downpipes, an Integrated Engineering high-pressure fuel pump and a MODE intercooler, plus lowering springs and Flow Designs aero. Those are the facts of my build. I don't need to invent a lap time or a drag result to make it interesting.
+
+The RS3 was a five-door hatchback, which was useful with a family. I sold it because I wanted to make room for the GT-R and already had the Tesla Model Y. That was a decision about which cars I wanted to keep, not a sign I'd stopped enjoying the Audi.
 
 ## Why it eventually left
 
