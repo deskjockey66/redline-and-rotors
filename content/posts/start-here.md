@@ -21,7 +21,7 @@ My first mechanical watch was a Seiko SKX007, which I still owned. I remembered 
 
 A turbocharger used exhaust energy to drive a compressor on the intake side. That allowed the engine to take in a greater mass of air, with fuel delivery and tuning determining how the extra air was used. It also gave a modified car a sound and response that could become a large part of its personality. My memories of the exhaust and flutter were tied to that mechanical experience.
 
-An aftermarket exhaust changed more than what someone saw beneath the rear bumper. Sound could make the engine feel much more central to a journey, even when the route itself wasn't special. I couldn't attach a measured output or a complete modification list to my old R33 from the details I'd recorded, but I could say exactly which part of ownership I remembered. It was a loud car, and that made an impression.
+An aftermarket exhaust changed more than what someone saw beneath the rear bumper. Sound could make the engine feel much more central to a journey, even when the route itself wasn't special. I don't have a power figure or a full modification list for that R33. What I remember is the exhaust and the turbo flutter.
 
 ## How that led towards the R35
 
