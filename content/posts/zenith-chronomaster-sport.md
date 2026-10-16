@@ -39,6 +39,14 @@ But once I had it on my wrist, I couldn't get past the thickness. I didn't like 
 
 That is the clearest thing I can say about owning this watch: I liked what it was, but I didn't like wearing it enough to keep it.
 
+## The chronograph and bracelet
+
+The chronograph was mesmerising to watch. I loved seeing it running, and the fast-beating El Primero movement was one of the best things about owning the Zenith. It wasn't just a specification on paper for me; watching the chronograph in action was genuinely part of the appeal.
+
+I also thought the bracelet was great to wear. Adjusting it was another matter. The two-sided insert pins made sizing the bracelet ridiculously fiddly, and that was a frustration I remember clearly.
+
+Those details made the decision to sell more complicated than simply not liking the watch. There was plenty I enjoyed about it, especially the movement and chronograph. Ultimately, though, the case thickness and how it sat on my wrist outweighed those positives.
+
 ## Wearability was where it lost me
 
 For cuff wear, the taller profile was an obvious consideration. A shirt cuff had to pass over the whole assembly, including the bezel and crystal, rather than just clear the case diameter. That was why a watch could look reasonable in a front-on wrist photograph and still feel more intrusive from the side.
