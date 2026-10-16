@@ -29,8 +29,6 @@ The bracelet was therefore part of the watch's identity, rather than something I
 
 The broad polished ring around the crystal made a simple boundary for the dial. Compared with fluting, there were fewer separate edges catching the light around the face. I found that less showy, even though the polished metal was still visible. It was a preference about how the shine was distributed.
 
-The dark dial helped the applied baton markers stand out. Each marker had a clear direction, and the hands followed the same restrained approach. The date and its magnifier were the strongest interruption to the otherwise simple layout. That was part of what made it recognisably a Datejust rather than a generic three-hand watch.
-
 I liked the design because the details had distinct jobs. The dial told the time, the date had its own obvious window, and the bracelet supplied much of the decorative character. It didn't need an elapsed-time bezel or chronograph counters to hold my interest. There was enough to appreciate in the ordinary act of reading it.
 
 ## The useful technical background
@@ -46,8 +44,6 @@ The Datejust's appeal didn't depend entirely on that number. A longer reserve wa
 The comfort of the Jubilee was my clearest ownership observation. Its flexibility made the bracelet a major part of how the watch sat, and the smaller links gave it a different feel from a stiffer-looking sports bracelet. That mattered in a watch I wanted to put on without making the whole day about the watch.
 
 The smooth bezel helped me feel at ease with its appearance. I felt safe wearing it everywhere, which was my personal response to this example. It wasn't a general claim that a particular Rolex was safe in every setting. What I meant was that I didn't feel the same concern about its visual flash that I associated with a fluted version.
-
-For someone considering office wear, I'd put bracelet fit and cuff clearance ahead of choosing a diameter from a list. A watch could look restrained face-on and still be distracting if the bracelet was poorly sized. Equally, a comfortable bracelet could make a decorative watch easier to live with. My experience with the Jubilee was why that part of the review deserved more space than a simple purchase-and-sale account.
 
 ## Where it sat beside the Submariner
 
