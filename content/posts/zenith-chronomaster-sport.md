@@ -31,13 +31,13 @@ That faster revolution changed the experience of reading the stopwatch. A full s
 
 Frequency and accuracy were different questions. A high beat rate enabled that fine chronograph indication, but it didn't mean I could assign an exact daily rate to my own watch without measuring it. The interesting specification here was the way the mechanism displayed short intervals, and the fact that it did so through a conventional mechanical power source.
 
-## A chronograph changed the case
+## The part I couldn't live with
 
-The pushers on either side of the crown made the watch broader in outline than a simple three-hand case. They also made the right side more visually active. That was part of a sports chronograph's appeal: the controls gave some visible explanation of the machinery being carried inside.
+I bought the Chronomaster Sport as a complete set from a dealer at a competitive price. At the time, a Daytona was out of reach. The Zenith had plenty to interest me in its own right, particularly the El Primero movement and the coloured counters.
 
-The complication also occupied space. Case thickness had to accommodate the movement and the construction around it, while the bezel, crystal and caseback added their own contribution to the profile. It was possible to admire that package and still find the finished watch too tall for a particular wrist.
+But once I had it on my wrist, I couldn't get past the thickness. I didn't like how it sat. I kept coming back to that feeling, regardless of how interesting the movement was. In the end I sold it.
 
-That was exactly where my experience landed. The numerical diameter didn't tell me enough about the fit. The side profile was the part I couldn't get past after wearing it. I would give that much more attention if I were choosing another chronograph, rather than assume that an attractive dial and a good deal would settle the question.
+That is the clearest thing I can say about owning this watch: I liked what it was, but I didn't like wearing it enough to keep it.
 
 ## Wearability was where it lost me
 
