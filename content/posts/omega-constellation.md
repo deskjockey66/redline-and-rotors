@@ -49,8 +49,10 @@ For someone thinking about a cuff, I'd consider the full side profile and the cl
 
 I liked having the dressier watch head on a casual strap. That made the Omega easier for me to appreciate on its own terms. It didn't have to imitate the Submariner's purpose or become the most frequently worn watch to justify its place in the collection.
 
-## The limits were part of owning vintage
+## Where it fitted in my collection
 
-I treated age and condition as part of the technical assessment. A historic water-resistance figure for a similar reference wouldn't establish the condition of the seals in this one. Likewise, an old chronometer designation didn't supply a current service history. Those were practical differences between reviewing an individual vintage watch and repeating a new-watch specification sheet.
+I bought the Constellation without a strap from a dealer through Facebook. I fitted a purple Delugs CTS strap, and I liked how the combination wore. The watch was comfortable on my wrist.
 
-My verdict was that the Constellation worked particularly well as a watch whose character I could change with a strap. Its shape and dial had enough restraint to carry the purple without looking overwhelmed by it. The caveat was the normal need to assess a vintage example individually before attaching confident mechanical claims to it. I liked the watch I bought, even during a year when another watch received much more of my wrist time.
+It didn't get much wrist time this year, mainly because I kept reaching for the Submariner. That doesn't change the fact that I liked the Omega. It's simply how I actually used the two watches.
+
+I haven't confirmed the exact reference or service history here, so I'm leaving those details out rather than guessing.
