@@ -61,4 +61,4 @@ The modern Grand Seiko had impressed me with its polishing and frost-textured di
 
 It also reminded me that interest and use weren't always equal. I could be drawn to a particular dial, buy the watch and still choose something else most mornings. That left me with a watch I enjoyed looking at more often than I actually wore it.
 
-My verdict was that the watch's strength was the combination of an individual dial and a restrained, purposeful design. Its limitation in my collection was the lack of wrist time, with the usual need for reference and condition checks before making detailed mechanical claims about a vintage example. I bought it because those marks made it distinctive. I still understood that choice, even when I wasn't reaching for it very often.
+The dial is still the reason I bought it. I liked its marks and ageing enough to overlook a case shape I never really warmed to. The watch wore well, so comfort wasn't the problem. I simply didn't love the egg-shaped case, and I rarely chose to wear it.
