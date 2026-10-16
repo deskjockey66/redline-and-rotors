@@ -21,8 +21,6 @@ The reason it eventually left was the fit. It was too thick for me, and I didn't
 
 The white face and overlapping coloured counters gave the Chronomaster Sport a distinctive layout. The different shades separated the subdials without making each one an isolated circle. The applied hour markers and the central hands retained enough structure for the ordinary time display to remain readable around the chronograph information.
 
-The date sat between four and five o'clock. That kept it away from the three large counters, although it also introduced a diagonal interruption near the edge of the dial. I saw that as one of the visual compromises of packaging several functions into the same face. Someone who disliked date windows would notice it; someone who wanted the date might appreciate having it without losing a counter.
-
 The black ceramic bezel supplied a dark boundary around the pale dial. Its scale was for the chronograph's tenths-of-a-second display, which was an important difference from the tachymeter scale many people expected around a sports chronograph. The appearance might have brought a Daytona to mind, but the scale was doing a different job.
 
 ## What made the movement interesting
@@ -43,15 +41,11 @@ That was exactly where my experience landed. The numerical diameter didn't tell 
 
 ## Wearability was where it lost me
 
-The bracelet and lugs could help position a watch, but they couldn't remove its height. If the case sat in a way I didn't enjoy, adjusting the bracelet wasn't going to turn it into a thin watch. That was the useful distinction between getting the size of a bracelet right and choosing the right case for my preferences.
-
 For cuff wear, the taller profile was an obvious consideration. A shirt cuff had to pass over the whole assembly, including the bezel and crystal, rather than just clear the case diameter. That was why a watch could look reasonable in a front-on wrist photograph and still feel more intrusive from the side.
 
 My criticism was personal and specific. I didn't get on with how this watch sat on my wrist, and eventually I sold it. I wasn't claiming that every owner would find it uncomfortable. The lesson was that I needed to take my own reaction to case thickness seriously, even when the technical specification was impressive.
 
 ## Value beyond being the other option
-
-Buying it because I couldn't afford a Daytona didn't mean I wanted the Zenith to imitate one in every respect. The coloured counters and the fast chronograph display gave it enough identity to stand on its own. Once I looked beyond the route into the purchase, those were the reasons it was worth reviewing properly.
 
 The dealer's competitive price had made the decision easier, and the complete set was part of what I bought. Neither changed the wearing experience. A favourable purchase could still be the wrong fit, which was something this watch made very clear to me.
 
