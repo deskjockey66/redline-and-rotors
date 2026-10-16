@@ -17,11 +17,13 @@ My interest in cars started with The Fast and the Furious when I was a teenager.
 
 My first mechanical watch was a Seiko SKX007, which I still owned. I remembered looking through the clear caseback on mine and watching the movement. Having a small machine on my wrist was fascinating to me. The R33 and the Seiko were very different purchases, but both gave me a reason to pay attention to how mechanical things worked.
 
-## What the R33 introduced me to
+## The R33 that started it
 
-A turbocharger used exhaust energy to drive a compressor on the intake side. That allowed the engine to take in a greater mass of air, with fuel delivery and tuning determining how the extra air was used. It also gave a modified car a sound and response that could become a large part of its personality. My memories of the exhaust and flutter were tied to that mechanical experience.
+My first JDM car was an R33 GTST. I got into modified cars after watching *The Fast and the Furious* as a teenager, and the Skyline was where that interest became something I actually owned.
 
-An aftermarket exhaust changed more than what someone saw beneath the rear bumper. Sound could make the engine feel much more central to a journey, even when the route itself wasn't special. I don't have a power figure or a full modification list for that R33. What I remember is the exhaust and the turbo flutter.
+The two things I remember most are the loud aftermarket exhaust and the turbo flutter. Those sounds made an impression on me. I don't have a confirmed power figure or complete modification list for that car, so I'm not going to fill in the gaps.
+
+It was the beginning of an interest that eventually brought me to the R35. The cars are very different, but I can still trace that interest back to the R33.
 
 ## How that led towards the R35
 
