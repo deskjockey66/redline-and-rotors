@@ -43,7 +43,7 @@ That was exactly where my experience landed. The numerical diameter didn't tell 
 
 For cuff wear, the taller profile was an obvious consideration. A shirt cuff had to pass over the whole assembly, including the bezel and crystal, rather than just clear the case diameter. That was why a watch could look reasonable in a front-on wrist photograph and still feel more intrusive from the side.
 
-My criticism was personal and specific. I didn't get on with how this watch sat on my wrist, and eventually I sold it. I wasn't claiming that every owner would find it uncomfortable. The lesson was that I needed to take my own reaction to case thickness seriously, even when the technical specification was impressive.
+It sat too high on my wrist, and I sold it. I liked the movement and the dial, but I couldn't get past the thickness.
 
 ## Value beyond being the other option
 
