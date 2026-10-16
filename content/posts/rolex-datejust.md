@@ -33,7 +33,7 @@ I liked the design because the details had distinct jobs. The dial told the time
 
 ## The useful technical background
 
-The contemporary Datejust family used a screw-down Oyster case, sapphire crystal and automatic winding. Rolex offered the modern Datejust in different sizes, so I wanted to keep the exact reference separate from a visual guess. I had originally described this one as 40 mm; the reference still needed checking before attaching a definitive diameter to my particular watch.
+The contemporary Datejust family used a screw-down Oyster case, sapphire crystal and automatic winding. Rolex offered the modern Datejust in different sizes, so I wanted to keep the exact reference separate from a visual guess. I still need to confirm the reference and case size of mine.
 
 For context, the current Datejust 36 and 41 used calibre 3235, with approximately 70 hours of power reserve. Those were family specifications, rather than a reason to assign a reference from the photograph alone. The useful practical point was that an automatic date watch could carry enough reserve to spend a couple of days off the wrist without immediately stopping.
 
