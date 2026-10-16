@@ -57,6 +57,4 @@ The bracelet was still a highlight, but a comfortable bracelet couldn't entirely
 
 The Submariner had the rotating bezel and broader, more purposeful case outline. The Datejust put more of its character into the bracelet and the polished bezel around the dial. Both were recognisable Rolex designs, but they gave me different reasons to appreciate them.
 
-My Submariner had received most of my wrist time this year. That didn't make the Datejust a failed purchase. It meant the collection had a regular choice and another watch whose bracelet and appearance I enjoyed for their own reasons. Different watches could earn their place without receiving equal wrist time.
-
-The smooth-bezel Datejust's strength was the way the Jubilee and simple face worked together. My wearing verdict was clear: I loved the bracelet, liked the quieter bezel and felt comfortable wearing the watch. Those were substantial reasons for keeping an interest in it, even after a newer Datejust joined the collection.
+When I first bought the Datejust, I wore it just as often as the Submariner. The Jubilee was excellent and the smooth bezel suited me. But the 41 mm case eventually felt too large on my wrist. That experience is part of why the smaller Datejust 36 interested me later. I still love the design; I just learned that I prefer it in a smaller size.
