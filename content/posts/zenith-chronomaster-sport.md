@@ -57,4 +57,4 @@ It sat too high on my wrist, and I sold it. I liked the movement and the dial, b
 
 The dealer's competitive price had made the decision easier, and the complete set was part of what I bought. Neither changed the wearing experience. A favourable purchase could still be the wrong fit, which was something this watch made very clear to me.
 
-I would describe the Chronomaster Sport as a technically interesting sports chronograph with a lot happening on the dial and in the movement. Its strength was the distinctive way it made a high-frequency chronograph useful and visible. Its weakness for me was the thickness of the finished package. I could respect the first point and still sell it because of the second. For another wrist, the balance could easily come out differently.
+Watching the fast-running chronograph was mesmerising, and I liked the bracelet once it was on my wrist. Adjusting those two-sided insert pins was a pain, though. The bigger issue was the case thickness: I couldn't get comfortable with how it sat. I loved parts of the Zenith, but not enough to keep wearing it, so I sold it.
