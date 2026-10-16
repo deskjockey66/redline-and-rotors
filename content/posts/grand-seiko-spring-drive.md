@@ -67,6 +67,4 @@ The Submariner had a bold outer frame and a direct sports-watch display. The Gra
 
 It also connected with why my original SKX had interested me. Both made me curious about what was happening inside the case, although Spring Drive was a very different technical proposition. The Grand Seiko gave that curiosity a more refined setting, with a dial and finish that made sense in the office.
 
-I sold it when the Cartier became the watch I wanted more. That was a change in preference, rather than a discovery that the Grand Seiko wasn't good. Its strengths remained the finishing, the dial's depth and the distinctive movement. The possible hesitation was that the polished case and open pale face still had a definite presence, despite the relatively restrained design.
-
-For me, this was a successful watch that didn't have to become a permanent possession. I enjoyed wearing it, understood why the finishing appealed to me and eventually chose a different direction for the collection. I still thought highly of it after it left the collection.
+I still appreciate the finishing, the frost-textured dial and the Spring Drive movement. But I had wanted the Shunbun, and after spending more than $10,000 I couldn't shake the feeling that I would rather have a Cartier. At that price, the Seiko name didn't give me the same sense of prestige. That was a personal reaction, not a criticism of the workmanship. In the end, I sold it because I wanted the Cartier more.
