@@ -1,6 +1,6 @@
 # Redline & Rotors
 
-Independent automotive and horology magazine. Hosted free on GitHub Pages at https://deskjockey66.github.io/redline-and-rotors/.
+First-person automotive and watch ownership journal. Hosted free on GitHub Pages at https://deskjockey66.github.io/redline-and-rotors/.
 
 ## Publish from an iPhone
 
