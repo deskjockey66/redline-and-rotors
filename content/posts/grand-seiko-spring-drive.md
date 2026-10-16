@@ -53,6 +53,14 @@ A power-reserve indicator was also useful when the watch was part of a collectio
 
 The complication also made the layout less austere. I could understand preferring a face without it, particularly beside the texture of the frost dial. For me, it gave the watch a visible connection to the stored energy inside, which fitted the mechanical curiosity that had first made my Seiko interesting.
 
+## What I couldn't quite get past
+
+My biggest reservation was that this wasn't the **Shunbun**, the Grand Seiko I really had in mind. I liked the frost-textured dial and the finishing on the watch I bought, and it wore well at the office. But I still found myself thinking about the model I hadn't chosen.
+
+There was also the question of what I felt I was getting for the money. I'd paid **over $10,000** for it, and personally I struggled with the Seiko name at that price. I can appreciate the engineering and finishing while still feeling that the branding didn't carry the prestige I associated with Cartier. That's my reaction to owning it, not a judgment that the watch wasn't well made.
+
+In the end, wanting a Cartier more was about both the watch itself and how I felt wearing the brand. The Grand Seiko did a lot right, but those feelings never completely went away.
+
 ## The appeal beside my other watches
 
 The Submariner had a bold outer frame and a direct sports-watch display. The Grand Seiko put more of its interest inside the dial opening and along the case surfaces. I liked having that different emphasis. Looking closely rewarded attention without needing a brightly coloured strap or a chronograph running.
