@@ -23,11 +23,13 @@ The thin baton markers and the length of the hands made the dial feel open. Ther
 
 Ageing could be attractive without automatically being desirable in every respect. Marks could also reflect a watch's condition, so I wouldn't treat the word patina as a substitute for examining an example properly. My preference here was simply that the dial looked distinctive to me. It was an aesthetic judgement about this watch, rather than proof of its history.
 
-## What Hi-Beat meant in context
+## Why I bought this particular watch
 
-A conventional mechanical movement regulated its energy through a balance and escapement. Beat rate described how often that regulating system oscillated. A higher frequency divided time into smaller increments, but frequency alone didn't establish the current accuracy of an individual watch. Condition and adjustment remained central to that question.
+I bought the vintage Seiko Hi-Beat from a dealer in Japan because I liked the marks on its dial. That ageing was the attraction for me. I wasn't looking for the cleanest possible example.
 
-Grand Seiko used Hi-Beat wording across more than one vintage movement family. The 56GS generation, introduced in 1970, used an automatic eight-beat design, equivalent to 28,800 vibrations per hour. Other historical Grand Seiko movements operated at different frequencies. That history was why I wouldn't assume every vintage Hi-Beat dial meant a modern 36,000-vph specification.
+I hardly wore it after buying it. The Submariner got most of my wrist time, and this one spent more time being appreciated than actually worn.
+
+I haven't confirmed the exact reference or movement specification, so I'm not going to assign a beat rate or calibre to my watch from its appearance alone.
 
 ## The case carried a lot of the presence
 
