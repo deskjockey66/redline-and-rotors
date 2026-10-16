@@ -31,13 +31,13 @@ The broad polished ring around the crystal made a simple boundary for the dial. 
 
 I liked the design because the details had distinct jobs. The dial told the time, the date had its own obvious window, and the bracelet supplied much of the decorative character. It didn't need an elapsed-time bezel or chronograph counters to hold my interest. There was enough to appreciate in the ordinary act of reading it.
 
-## The useful technical background
+## Why I chose this one
 
-The contemporary Datejust family used a screw-down Oyster case, sapphire crystal and automatic winding. Rolex offered the modern Datejust in different sizes, so I wanted to keep the exact reference separate from a visual guess. I still need to confirm the reference and case size of mine.
+The Jubilee bracelet was the part I loved most. It felt comfortable, and I preferred the look of the smooth bezel over the fluted version. I felt comfortable wearing this watch in more places because it looked less flashy to me.
 
-For context, the current Datejust 36 and 41 used calibre 3235, with approximately 70 hours of power reserve. Those were family specifications, rather than a reason to assign a reference from the photograph alone. The useful practical point was that an automatic date watch could carry enough reserve to spend a couple of days off the wrist without immediately stopping.
+I haven't confirmed the exact reference and case size of this particular Datejust. I'd rather leave those out than attach a specification from a different model.
 
-The Datejust's appeal didn't depend entirely on that number. A longer reserve was convenient, but it didn't explain why the Jubilee felt good or why I preferred the smooth bezel on this purchase. Technical capability supported the design; the wearing experience decided whether I wanted it in the collection.
+The Submariner still got most of my wrist time, but I liked the Datejust for different reasons. The bracelet and the simpler bezel were enough to make it appealing to me.
 
 ## Wearability and presence
 
