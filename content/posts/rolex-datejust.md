@@ -35,7 +35,7 @@ I liked the design because the details had distinct jobs. The dial told the time
 
 The Jubilee bracelet was the part I loved most. It felt comfortable, and I preferred the look of the smooth bezel over the fluted version. I felt comfortable wearing this watch in more places because it looked less flashy to me.
 
-I haven't confirmed the exact reference and case size of this particular Datejust. I'd rather leave those out than attach a specification from a different model.
+Mine was a 2024 Datejust 41, with the 41 mm case. Rolex identifies the smooth-bezel Oystersteel version as reference 126300, although I haven't checked the reference number on my own watch.
 
 The Submariner still got most of my wrist time, but I liked the Datejust for different reasons. The bracelet and the simpler bezel were enough to make it appealing to me.
 
@@ -44,6 +44,14 @@ The Submariner still got most of my wrist time, but I liked the Datejust for dif
 The comfort of the Jubilee was my clearest ownership observation. Its flexibility made the bracelet a major part of how the watch sat, and the smaller links gave it a different feel from a stiffer-looking sports bracelet. That mattered in a watch I wanted to put on without making the whole day about the watch.
 
 The smooth bezel helped me feel at ease with its appearance. I felt safe wearing it everywhere, which was my personal response to this example. It wasn't a general claim that a particular Rolex was safe in every setting. What I meant was that I didn't feel the same concern about its visual flash that I associated with a fluted version.
+
+## Why I moved away from the larger case
+
+When I first got this Datejust, I wore it just as much as my Submariner. I loved the Jubilee bracelet, and the smooth bezel gave it the understated look I wanted. It wasn't a watch that sat unworn from the beginning.
+
+Over time, though, I found the case too big for my wrist. This was a **2024 Datejust 41**, the 41 mm size in Rolex's range. That distinction matters because I later bought a smaller Datejust 36, which deserves its own entry.
+
+The bracelet was still a highlight, but a comfortable bracelet couldn't entirely make up for a case that felt oversized to me. It's a good example of how much my opinion of a watch can change after living with it, even when I still like the design.
 
 ## Where it sat beside the Submariner
 
