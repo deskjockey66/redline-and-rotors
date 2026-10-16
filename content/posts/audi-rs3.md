@@ -55,8 +55,6 @@ Looking back, that's what made the RS3 such an interesting car to own. I loved t
 
 ## Why it eventually left
 
-I sold the RS3 to make room for the GT-R. I already had the Tesla Model Y, so I could keep a family car and choose the Nissan as the other car in the garage. The sale was about making that combination possible. It didn't mean the Audi had stopped having a good engine.
-
-Looking back, the mid-pipe remained the modification I remembered most fondly. That said something about what the RS3 did well for me. The big output was interesting, but the five-cylinder's voice gave the car its lasting identity. The Gold Coast trip was a much clearer memory than any abstract comparison with a rival's claimed launch time.
+I sold the RS3 to make room for the GT-R, knowing I still had the Tesla Model Y for family duties. I miss the five-cylinder sound and how planted the Audi felt. I also appreciated the heated seats and the European comforts. I don't miss its turning circle or the expensive replacement parts and upkeep. That's the balance of owning it for me: a car I really enjoyed, with drawbacks I remember just as clearly.
 
 ![My pearl-white RS3 at a petrol station](/media/audi-rs3-night.jpg)
