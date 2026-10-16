@@ -39,8 +39,6 @@ This was where my main criticism sat. The case carried noticeable height, and I'
 
 A close-fitting cuff had to clear that case height before it could pass over the watch. That was the practical implication of the thickness complaint. A bracelet or strap could improve how securely a watch sat, but it couldn't remove the amount of watch above the wrist. Case shape mattered as much as the headline diameter.
 
-I still chose it frequently. That made my view more balanced than calling it either perfectly proportioned or too large to use. I liked the design and accepted the height. Someone whose first priority was a slim watch would probably weigh that trade-off differently, especially beside a simpler dress watch.
-
 ## Why orange worked for me
 
 The strap was an orange Delugs, fitted when I took the summer photograph. Most of the watch remained black and steel, so the colour had something clear to work against. The result looked deliberately brighter without asking me to change the watch itself.
@@ -54,5 +52,3 @@ There was a limit to what the colour change achieved. The dial and bezel still h
 The strongest evidence in the Submariner's favour was how often I wore it. I could enjoy a more unusual dial or an interesting chronograph and still find myself returning to this watch. Its black-and-white display gave it a clear identity, and the orange strap added the part that felt more specifically mine.
 
 The case remained the weakness. I would happily have taken a slightly thinner version with the same general appearance. That preference was consistent with why I later moved the Zenith on, although the outcome here was different. I kept using the Rolex despite the compromise.
-
-For me, the 116610LN worked as a regularly worn mechanical watch with a very recognisable design. It had enough substance to keep me interested beyond the name on the dial, and enough case height to keep me from calling it perfect. That was the ownership balance I wanted the review to capture.
