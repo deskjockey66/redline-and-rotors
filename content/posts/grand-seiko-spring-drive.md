@@ -25,13 +25,13 @@ The hands were important too. Broad polished surfaces could go bright or dark de
 
 The power-reserve indicator broke up the lower part of the dial. Some people preferred a completely symmetrical face; I found the indication relevant on a watch powered by a mainspring. It showed how much stored energy remained. The date at three o'clock added another practical function without asking the watch to become a busier design.
 
-## Why Spring Drive was worth understanding
+## The Spring Drive detail I liked
 
-Spring Drive combined a mainspring power source with electronic regulation. Energy from the unwinding spring drove the hands and generated the small electrical supply used by the regulating system. A quartz reference and an electromagnetic brake controlled the rate of the glide wheel. That was why the seconds hand moved in a continuous glide rather than the familiar sequence of small mechanical steps.
+Spring Drive was one of the reasons I was interested in this Grand Seiko. I liked that the watch was mechanically powered while the seconds hand moved with that distinctive smooth sweep. It was different from the watches I'd owned before.
 
-The photographed watch was from the 9R Spring Drive family. For the 9R65, Grand Seiko specified automatic winding with manual winding available, approximately 72 hours of power reserve and a stated accuracy of ±15 seconds per month. Those were movement specifications, rather than results from a timing test of my own watch.
+The frost-textured dial and the polishing were the details I kept coming back to when I looked at it. I wore the watch to the office, and at **40 mm** it wore well for me. It wasn't a watch I had to force myself to appreciate.
 
-The mechanism was a large part of its appeal to me. I liked watches because of the machinery inside them, and Spring Drive approached the problem of keeping time differently from the conventional balance-and-escapement arrangement in my Rolex. The movement gave the watch an engineering identity that matched the attention paid to the dial and case.
+I eventually sold it because I wanted a Cartier more. I still think highly of the Grand Seiko, but my collection changed direction.
 
 ## The finishing wasn't just a shiny surface
 
