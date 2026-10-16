@@ -33,6 +33,14 @@ A chronometer designation related to testing and performance standards. It didn'
 
 I’ll add the precise case and movement references once they’re confirmed. The automatic date layout and the case design were the technical starting points for this particular watch.
 
+## Why I was drawn to it
+
+The vintage feel was what first attracted me to the Constellation. I liked that it looked and felt different from the modern sports watches in my collection. The rose-gold look was another big part of it. To my eye, that colour was unusual, and it gave the watch a character I hadn't found in my other pieces.
+
+I bought it without a strap and later fitted a purple Delugs CTS strap. I liked the combination, and the watch wore nicely. That was enough to make it a purchase I enjoyed, even if it didn't become the one I reached for most often.
+
+The Submariner eventually took most of my wrist time. That wasn't because I'd stopped liking the Constellation's vintage design or rose-gold appearance. Those were still the reasons it had caught my attention in the first place.
+
 ## Why the purple strap made sense
 
 The watch didn't come with a strap, which gave me a fairly open decision. A traditional leather choice would have changed its appearance in one direction. I chose a purple Delugs CTS instead, and the resulting colour was part of what I liked about this particular combination.
