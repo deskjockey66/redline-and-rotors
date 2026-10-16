@@ -47,6 +47,14 @@ A fabric strap could influence how high a case sat, depending on whether materia
 
 It hardly got worn, so my own comfort assessment remained limited. Its appearance and the mechanical design held my interest, while the Submariner kept receiving most of my wrist time.
 
+## The dial won me over, not the case
+
+I mainly bought this vintage Hi-Beat for the dial. The ageing and marks made it different from the cleaner watches I usually looked at, and that was exactly what caught my eye when I found it through a dealer in Japan.
+
+The case was another story. To be honest, I never really liked its egg-shaped outline. It wasn't a comfort problem — the watch actually wore great on my wrist — but I didn't love the shape when I looked at it. That's an important distinction for me: a watch can fit well and still not be something I feel like reaching for.
+
+I hardly wore it in the end. The unusual dial was enough to make me want to own it, but it wasn't enough to overcome my feelings about the case design.
+
 ## Why it stayed interesting anyway
 
 The modern Grand Seiko had impressed me with its polishing and frost-textured dial. This vintage watch offered a different sort of detail. The texture here came from the condition of the actual dial, rather than an intentionally patterned modern finish. That made the two watches interesting to compare without pretending they fulfilled the same role.
