@@ -25,13 +25,13 @@ The black ceramic insert and pale bezel markings made a strong frame around the 
 
 That was a design strength I appreciated. There was quite a lot happening around the edge of the watch, including the bezel teeth and crown guards, but the dial itself remained direct. The Mercedes hour hand was distinctive enough to separate it from the longer minute hand. The white markers against black gave the face most of its practical character.
 
-## The movement was part of the appeal
+## Why I kept wearing it
 
-The calibre 3135 was a self-winding mechanical movement with a date function and approximately 48 hours of power reserve. That reserve was shorter than the roughly 70 hours offered by the newer generation of Submariner Date. For a watch I wore often, the difference mattered less than it would in a larger rotation with longer gaps between wears.
+My Submariner is the **116610LN**, with the automatic calibre 3135. I came to mechanical watches through a Seiko SKX007, and I'm still interested in the movement working away inside a watch. I don't need to turn that interest into a technical lecture every time I write about one.
 
-An automatic movement used wrist motion to replenish the mainspring through its winding system. Stored energy then passed through the gear train and escapement to drive the hands. That basic mechanical process was the reason watches held my interest in the first place. I had started with an SKX007 and still liked the idea of a small machine working away on my wrist.
+The Submariner got most of my wrist time this year. I bought it from a Melbourne dealer with its box and papers, and later fitted an orange Delugs strap for summer. That change made a watch I already wore regularly feel a bit different.
 
-I didn't need the Submariner to have a display back to appreciate that. The visible experience was the dial and the case; knowing what powered it supplied another layer of interest. That connection between the visible design and the machinery underneath was enough to keep my interest.
+I would still like it to be about a millimetre thinner. The case height is the one thing I'd change. Unlike the Zenith, though, it wasn't enough to make me stop reaching for it.
 
 ## Wearability: substantial, even on a strap
 
