@@ -45,6 +45,14 @@ The car was pearl white, had reached 100,000 km when I recorded its details and 
 
 The RS3 was a five-door hatchback, which was useful with a family. I sold it because I wanted to make room for the GT-R and already had the Tesla Model Y. That was a decision about which cars I wanted to keep, not a sign I'd stopped enjoying the Audi.
 
+## The comfort and the compromises
+
+The sound was what first drew me to the RS3, but there were other things I appreciated once I was living with it. I liked the European touches, especially having heated seats, and I loved how planted the car felt on the road. It had the performance I wanted without giving up the comforts that made it easy to use regularly.
+
+It wasn't perfect. The turning circle frustrated me, particularly for a car that was otherwise so practical. I also found the cost of replacement parts and general upkeep pretty expensive. Those were real drawbacks of ownership, not things that cancelled out how much I enjoyed driving it.
+
+Looking back, that's what made the RS3 such an interesting car to own. I loved the five-cylinder noise and the way it felt on the road, and I appreciated the everyday comforts. At the same time, I knew the tight turning circle and maintenance costs were part of the deal. I enjoyed it for what it was, then sold it to make room for the GT-R.
+
 ## Why it eventually left
 
 I sold the RS3 to make room for the GT-R. I already had the Tesla Model Y, so I could keep a family car and choose the Nissan as the other car in the garage. The sale was about making that combination possible. It didn't mean the Audi had stopped having a good engine.
