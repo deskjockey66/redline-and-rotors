@@ -15,8 +15,6 @@ order: 30
 
 I bought this vintage Seiko Hi-Beat from a dealer in Japan because of the marks on its dial. They were the feature that made this particular watch interesting to me. A cleaner example might have appealed to someone else, but the ageing was part of why I wanted this one.
 
-It hardly got worn. That was the ownership reality, although there was more to review than the amount of time it spent in the box. The dial, case and automatic movement represented a different approach to a watch from the modern Submariner that dominated my wrist time. That difference was part of why it interested me.
-
 ## The dial was the main event
 
 The pale face had visible marks and uneven ageing. They interrupted the surface without hiding the applied markers or the long hands. That gave the watch an individual appearance, and it was what drew me to it in the first place. I liked being able to recognise the specific example I'd bought.
