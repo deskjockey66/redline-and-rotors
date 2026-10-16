@@ -47,6 +47,14 @@ The strap also shifted the visual emphasis. A steel bracelet extended the watch'
 
 There was a limit to what the colour change achieved. The dial and bezel still had the same design, and the case retained the same dimensions. That was useful to recognise because the strap solved a styling question rather than my thickness complaint. I liked the new appearance while keeping the criticism of the case.
 
+## Why it's my go-anywhere watch
+
+The classic design is what keeps bringing me back to the Submariner. I don't have to think too hard about when to wear it. It looks right with a suit, but it feels just as appropriate with beachwear. That versatility is a big part of why it gets more wrist time than my other watches.
+
+For me, it's the best example of a GADA — go anywhere, do anything — watch. That's my personal verdict after owning and wearing it, not a claim that everyone needs to agree with. It does the job I want a watch to do without feeling out of place when the rest of my day changes.
+
+I still wish the case were about a millimetre thinner. But when I look at how often I actually choose it, the design and versatility clearly matter more to me than that one criticism.
+
 ## The verdict after actually choosing it
 
 The strongest evidence in the Submariner's favour was how often I wore it. I could enjoy a more unusual dial or an interesting chronograph and still find myself returning to this watch. Its black-and-white display gave it a clear identity, and the orange strap added the part that felt more specifically mine.
