@@ -10,15 +10,15 @@ summary: The turbocharged Skyline and automatic SKX007 that started my interest,
 photo_credit: Photos are mine, taken on my phone.
 published: true
 ---
-My interest in cars started with The Fast and the Furious when I was a teenager. The modified cars looked cool, and that eventually led me to an R33 GTST, my first JDM car. What I remembered most was the loud aftermarket exhaust and the turbo flutter. Those sounds stayed with me long after the initial excitement of buying it.
+My interest in cars started with The Fast and the Furious when I was a kid. The modified cars looked cool, and that eventually led me to an R33 GTST, my first JDM car. What I remembered most was the loud aftermarket exhaust and the turbo flutter. Those sounds stayed with me long after the initial excitement of buying it.
 
 My first mechanical watch was a Seiko SKX007, which I still owned. I remembered looking through the clear caseback on mine and watching the movement. Having a small machine on my wrist was fascinating to me. The R33 and the Seiko were very different purchases, but both gave me a reason to pay attention to how mechanical things worked.
 
 ## The R33 that started it
 
-My first JDM car was an R33 GTST. I got into modified cars after watching *The Fast and the Furious* as a teenager, and the Skyline was where that interest became something I actually owned.
+My first JDM car was an R33 GTST.
 
-The two things I remember most are the loud aftermarket exhaust and the turbo flutter. Those sounds made an impression on me. I don't have a confirmed power figure or complete modification list for that car, so I'm not going to fill in the gaps.
+The two things I remember most are the loud exhaust and the turbo flutter. Those sounds made an impression on me. 
 
 It was the beginning of an interest that eventually brought me to the R35. The cars are very different, but I can still trace that interest back to the R33.
 
@@ -42,8 +42,8 @@ I still kept the SKX. That mattered more to this journal than trying to rank eve
 
 ## Why I wanted a place to record it
 
-Since those first purchases, I had owned the RS3 and moved it on for the GT-R. I had bought watches that impressed me in different ways, including a Grand Seiko whose polishing I loved and a Zenith whose thickness eventually put me off. The collection changed, but each purchase left me with a clearer idea of what I enjoyed.
+Since those first purchases, I had owned multiple cars including RS3 and the GT-R. I had bought watches that impressed me in different ways, including a Grand Seiko whose polishing I loved and a Zenith whose thickness eventually put me off. 
 
 That was why I started Redline & Rotors. I wanted to document the cars and watches I bought, with enough technical detail to explain their appeal and enough ownership detail to remember how I actually got on with them. There was no hidden agenda behind the site.
 
-The R33's exhaust and the movement visible through my Seiko's caseback were good starting points. They were specific memories attached to actual things I'd owned. The later reviews could go deeper into performance and wearability, but those first experiences explained why I wanted to write the reviews in the first place.
+The R33's exhaust and the movement visible through my Seiko's caseback were good starting points. 
