@@ -1,18 +1,15 @@
 ---
 title: The R33 and the Seiko were where it started
-date: '2026-10-15'
+date: 2026-05-11
 show_date: false
 category: Journal
-summary: The turbocharged Skyline and automatic SKX007 that started my interest, and
-  the engineering that kept me interested.
-cover: ''
-photo_credit: Photos are mine, taken on my phone.
-published: true
-ownership: ''
 format: Origins
 order: 20
+summary: The turbocharged Skyline and automatic SKX007 that started my interest,
+  and the engineering that kept me interested.
+photo_credit: Photos are mine, taken on my phone.
+published: true
 ---
-
 My interest in cars started with The Fast and the Furious when I was a teenager. The modified cars looked cool, and that eventually led me to an R33 GTST, my first JDM car. What I remembered most was the loud aftermarket exhaust and the turbo flutter. Those sounds stayed with me long after the initial excitement of buying it.
 
 My first mechanical watch was a Seiko SKX007, which I still owned. I remembered looking through the clear caseback on mine and watching the movement. Having a small machine on my wrist was fascinating to me. The R33 and the Seiko were very different purchases, but both gave me a reason to pay attention to how mechanical things worked.
@@ -29,7 +26,7 @@ It was the beginning of an interest that eventually brought me to the R35. The c
 
 The R35's unveiling at the Tokyo motor show later caught my attention, and seeing it on Top Gear made the idea stay with me. It took until December 2025 for me to buy mine. On the first drive I got goosebumps. There was a real line between the teenager interested in modified Skylines and the adult finally driving the GT-R he'd watched on television.
 
-My own GT-R ended up with 600 hp and 700 Nm, alongside the other modifications recorded in its review. Those numbers belonged to the later car. They didn't need to be projected backwards onto the R33 to make the earlier ownership meaningful. The first car had mattered because it made the interest real.
+My own GT-R ended up with 650 hp and 700 Nm, alongside the other modifications recorded in its review. Those numbers belonged to the later car. They didn't need to be projected backwards onto the R33 to make the earlier ownership meaningful. The first car had mattered because it made the interest real.
 
 ## The SKX made the machinery visible
 
