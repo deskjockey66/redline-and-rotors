@@ -54,15 +54,47 @@
 })();
 
 (() => {
- const menus=[...document.querySelectorAll('.nav-drop')];
- const fine=window.matchMedia('(hover: hover) and (pointer: fine)');
- menus.forEach(menu=>{
-  const summary=menu.querySelector('summary');
-  menu.addEventListener('pointerenter',()=>{if(fine.matches){menus.forEach(other=>{if(other!==menu)other.open=false});menu.open=true}});
-  menu.addEventListener('pointerleave',()=>{if(fine.matches&&!menu.contains(document.activeElement))menu.open=false});
-  menu.addEventListener('focusout',e=>{if(!menu.contains(e.relatedTarget))menu.open=false});
-  menu.addEventListener('keydown',e=>{if(e.key==='Escape'){menu.open=false;summary.focus()}});
-  menu.addEventListener('toggle',()=>{if(menu.open)menus.forEach(other=>{if(other!==menu)other.open=false})});
- });
- document.addEventListener('click',e=>{menus.forEach(menu=>{if(!menu.contains(e.target))menu.open=false})});
+  const menus = [...document.querySelectorAll('.nav-drop')];
+  if (!menus.length) return;
+  const desktopPointer = window.matchMedia('(hover: hover) and (pointer: fine)');
+  const closeOthers = current => menus.forEach(menu => {
+    if (menu !== current) menu.open = false;
+  });
+
+  menus.forEach(menu => {
+    const summary = menu.querySelector('summary');
+
+    // On phones, leave <details>/<summary> and their links to the browser.
+    // Closing a menu during focusout can remove the tapped link before iOS
+    // Safari has followed it, making dropdown links appear broken.
+    menu.addEventListener('pointerenter', event => {
+      if (desktopPointer.matches && event.pointerType === 'mouse') {
+        closeOthers(menu);
+        menu.open = true;
+      }
+    });
+    menu.addEventListener('pointerleave', event => {
+      if (desktopPointer.matches && event.pointerType === 'mouse' &&
+          !menu.contains(document.activeElement)) menu.open = false;
+    });
+    menu.addEventListener('focusout', event => {
+      if (desktopPointer.matches && !menu.contains(event.relatedTarget)) {
+        menu.open = false;
+      }
+    });
+    menu.addEventListener('keydown', event => {
+      if (event.key === 'Escape') {
+        menu.open = false;
+        summary.focus();
+      }
+    });
+    menu.addEventListener('toggle', () => {
+      if (menu.open) closeOthers(menu);
+    });
+  });
+
+  document.addEventListener('click', event => {
+    if (menus.some(menu => menu.contains(event.target))) return;
+    menus.forEach(menu => menu.open = false);
+  });
 })();
