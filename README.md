@@ -11,3 +11,5 @@ Open https://app.pagescms.org/ in Safari, sign in with GitHub and authorize this
 Install `requirements.txt`, then run `python build.py`. Output is `_site`. `SITE_BASE_PATH` defaults to `/redline-and-rotors`; set it to an empty string for a local root preview or a custom domain. The GitHub Actions publishing workflow is preserved.
 
 Photo sources and licences are documented in `content/credits.md`, published at `/credits/`. Included editorial pieces are design appreciations, not claimed road tests or ownership experiences.
+
+<!-- Latest Pages CMS content: deploy from main. -->
