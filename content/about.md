@@ -9,4 +9,4 @@ My first mechanical watch was a Seiko SKX007, which I still have. Looking at the
 
 I started Redline & Rotors to document the cars and watches I've bought. There's no hidden agenda.
 
-You can reach me on [Instagram, @MP44](https://www.instagram.com/redlinenrotors/)
+You can reach me on [Instagram, @mp44_gtr](https://www.instagram.com/mp44_gtr/)
